@@ -1,0 +1,6 @@
+train: /root/srw/data/train
+val: /root/srw/data/validation
+
+nc: 1
+
+names: ["top-down"]
